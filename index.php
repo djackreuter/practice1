@@ -2,6 +2,12 @@
 <html>
 	<head>
 		<title>Practice Number One</title>
+		<style>
+			#img {
+				width: 20%;
+				height: 20%;
+			}
+		</style>
 	</head>
 	<body>
 		<div class="header">
@@ -26,7 +32,7 @@
 				nibh. Morbi sodales porttitor nisi, sit amet dapibus lectus hendrerit sit amet. Nullam molestie ullamcorper
 				ornare.
 			</p>
-			<img src="http://wallpaper-gallery.net/images/picture/picture-14.jpg" alt="A monkey smiling">
+			<img id="img" src="http://wallpaper-gallery.net/images/picture/picture-14.jpg" alt="A monkey smiling">
 			<p>Click <a href="#" target="_blank">HERE</a> to see more pictures of smiling monkeys.</p>
 		</main>
 
