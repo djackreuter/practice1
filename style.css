@@ -1,0 +1,44 @@
+body {
+	background: #f4f4f4;
+}
+
+#branding {
+	margin: 0;
+	padding-bottom: 10px;
+}
+
+#branding h1 {
+	float: left;
+}
+
+.header {
+	background: gray;
+	min-height: 70px;
+}
+
+.header nav ul {
+	margin: 0;
+	padding: 0;
+	float: right;
+	/* overflow: hidden;
+	 */
+}
+
+.header nav ul li {
+
+	text-transform: uppercase;
+	padding: 0 20px 0 20px;
+	list-style: none;
+	float: left;
+	margin-top: 20px;
+}
+
+.header nav ul li a {
+	list-style: none;
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	font-weight: bold;
+}

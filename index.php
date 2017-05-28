@@ -8,6 +8,7 @@
 				height: 20%;
 			}
 		</style>
+		<link href="style.css" rel="stylesheet" type="text/css">
 	</head>
 	<body>
 		<div class="header">
